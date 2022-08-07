@@ -10,7 +10,6 @@ const Search = (props) => {
   const router = useRouter();
 
   const { results } = props;
-  console.log(results);
 
   return (
     <div>
