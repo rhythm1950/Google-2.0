@@ -25,4 +25,4 @@ This is a clone of google. I have developed it using Next.js, Tailwind CSS, Verc
 
 
 ### Website Preview:
-<img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
+<img src="./public/Google-2-0.png" alt="Google-2-0">
