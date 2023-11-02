@@ -536,4 +536,4 @@ export default {
   ],
 };
 
-const responseTrial = "Response Trial".
+const responseTrial = "Response Trial";
